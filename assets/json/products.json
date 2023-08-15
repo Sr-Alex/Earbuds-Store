@@ -1,0 +1,46 @@
+{
+    "produtosCatalogo": [
+        {
+            "name": "HeadSet 8-Dim Pro",
+            "store": "TechAll",
+            "prize": "75.00",
+            "sell": 5,
+            "imgURL": "https://c4.wallpaperflare.com/wallpaper/19/525/108/headphones-life-for-music-life-for-music-wallpaper-preview.jpg"
+        },
+        {
+            "name": "ThinkPlus GM2 Pro",
+            "store": "Lenovo",
+            "prize": "47.00",
+            "sell": 130,
+            "imgURL": "https://www.sublimesttore.com.br/cdn/shop/files/FoneGM2Pro-4_1c848769-b57e-434e-9161-78086df60174_800x.jpg?v=1684966355"
+        },
+        {
+            "name": "Mi EarBuds Basic 2 Xiaomi",
+            "store": "SGR LOJA",
+            "prize": " 129.80",
+            "sell": 24,
+            "imgURL": "https://sgrloja.com.br/wp-content/uploads/2021/10/mi-earbuds-1024x1024.jpg"
+        },
+        {
+            "name": "Razer Hammerhead HyperSpeed",
+            "store": "Razer",
+            "prize": "R$139,21",
+            "sell": "203",
+            "imgURL": "https://m.media-amazon.com/images/I/61ELwqdSfOL.jpg"
+        },
+        {
+            "name": "EPOS GTW 270 Wireless Earbuds",
+            "store": "Razer",
+            "prize": "R$731,41",
+            "sell": "15",
+            "imgURL": "https://www.zdnet.com/a/img/2022/09/13/0c23c20b-b399-4880-9c0c-fc1baa4bc69f/epos-gtw270-earbuds.jpg"
+        },
+        {
+            "name": " Bluetooth headset Mini Waterproof Wireless Earbuds",
+            "store": "Generic",
+            "prize": "R$123,14",
+            "sell": "468",
+            "imgURL": "https://img.fruugo.com/product/8/98/856554988_max.jpg"
+        }
+    ]
+}
