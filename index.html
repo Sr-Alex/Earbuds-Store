@@ -49,29 +49,22 @@
 
     </section>
 
-    <sectio class="w-full space-y-4">
-        <span class="w-full px-4 flex flex-wrap items-center">
-            <h1 class="w-1/2 px-1 text-start text-lg text font-medium"> Mais Populares:</h1>
+    <section class="w-full space-y-4">
+        <section class="w-full px-4 space-y-2 flex justify-between items-center flex-wrap">
+            <label class="text-xl font-bold" for="search-input"> Procurar produtos:</label>
+            
+            <input id="search-input" class="w-32 h-8 px-3 rounded-full bg-black bg-opacity-50 focus:outline-none focus:w-64 hover:shadow-md hover:shadow-pink-700 transition-all duration-300" type="text" placeholder="procurar por...">
 
-            <div class="w-1/2 h-8 space-x-4 flex items-center">
-                <input type="text" placeholder="procurar por..." class="w-full h-full px-3 rounded-full bg-black bg-opacity-50">
-
-                <button class="w-8 h-8 flex items-center justify-center">
-                    <img class="w-full h-full" src="assets/svg/filter-svgrepo-com.svg" alt="">
-
-                </button>
-
-            </div>
-
-        </span>
+        </section>
 
         <section id="productsContainer" class="w-full px-4 gap-4 grid grid-cols-2  sm:grid-cols-3 child">
         </section>
 
-    </sectio>
+    </section>
 
-    <script src="assets/javascripts/vitrine.js"></script>
-    <script src="assets/javascripts/produtos.js"></script>
+    <script src="assets/javascript/vitrine.js"></script>
+    <script src="assets/javascript/produtos.js"></script>
+    <script src="assets/javascript/search.js"></script>
 
 </body>
 </html>
