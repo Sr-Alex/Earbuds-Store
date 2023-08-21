@@ -1,9 +1,7 @@
 const searchInput = document.querySelector('#search-input');
 const searchBtn = document.querySelector('#search-btn');
 
-searchBtn.onclick = () => filtrar();
-
-searchInput.oninput = () => filtrar();
+searchInput.oninput = filtrar();
 
 function filtrar(){
     let products = document.querySelectorAll('#productsContainer a');
